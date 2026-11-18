@@ -1,0 +1,12 @@
+{
+  "name": "@cms/api",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": null
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "compilerOptions" : {
+        "alwaysStrict" : true,
+        "allowUnusedLabels" : false,
+        "allowUnreachableCode" : false,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true
+    }
+}
